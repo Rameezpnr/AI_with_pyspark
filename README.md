@@ -1,3 +1,3 @@
 # Pyspark-With-Python
 
-This is working file for pyspark testing
+This is a consolidated pyspark repo, consist of basic functions till advanced analytics
